@@ -1,0 +1,8 @@
+.courseList{
+    width:500px;
+    background:rgba(60,67,84,0.4);
+    margin-left: -500px;
+    margin-top: 40px;
+    min-height: 700px;
+    float:left;
+}

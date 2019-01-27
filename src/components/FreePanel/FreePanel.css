@@ -1,0 +1,8 @@
+.freeList {
+    width: 700px;
+    margin-left: 70px;
+    min-height: 700px;
+    float:left;
+    margin-top:35px;
+    background: rgba(60, 67, 84, 0.4);
+}

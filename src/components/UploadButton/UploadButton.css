@@ -1,0 +1,30 @@
+.uploadButton{
+    font-size: 400%;
+    font-weight: bolder;
+    color:white;
+     display: table-cell;
+    background:#3C4353;
+    border-radius: 25px;
+    cursor: pointer;
+    display: table;
+    width:500px;
+    margin-left:30px;
+    margin-top: -69px;
+    float:left;
+
+    
+    
+}
+.uploadButton:hover{
+    background:white;
+    color:#3C4353;
+}
+.uploadButton p{
+    display: table-cell;
+}
+
+input[type=file] {
+  display: none;
+}
+
+
